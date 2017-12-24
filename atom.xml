@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>听枫无涯</title>
+  <title>等到烟火清凉</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-24T06:27:48.209Z</updated>
+  <updated>2017-12-23T08:45:24.355Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Bingo</name>
+    <name>听风无涯</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2017/12/24/test/"/>
-    <id>http://yoursite.com/2017/12/24/test/</id>
-    <published>2017-12-24T06:27:18.000Z</published>
-    <updated>2017-12-24T06:27:48.209Z</updated>
-    
-    <content type="html"><![CDATA[<p>##测试一下</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;##测试一下&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
