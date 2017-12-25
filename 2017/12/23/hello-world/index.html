@@ -439,11 +439,22 @@
           
 
   
-     <div class="comments" id="comments">
-    </div>
-	
-  
-  
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    // 根据文章标题设置唯一评论id
+    id: '',
+    owner: 'Bingoch',
+    repo: 'Binogch.ginthub.io',
+    oauth: {
+      client_id: 'ec857fa25d13024fc814',
+      client_secret: '9fd245ffe13ea0ef4149bcc7042abaaf5aa17d9c',
+    },
+  })
+  gitment.render('comments')
+</script>
+
   
   
 
